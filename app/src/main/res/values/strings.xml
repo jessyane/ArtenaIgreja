@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Arte na Igreja</string>
+    <string name="large_text">
+
+
+"O Teatro na Igreja. \n\n"
+
+
+
+"Por que o teatro não era aceito na igreja. \n"
+
+"Esta arte surgiu no século VI a.C., na Grécia, como resultado das festas dionisíacas que eram realizadas em homenagem ao deus Dionísio, deus do vinho, do teatro e da fertilidade.\n"
+"No Brasil, o teatro começou no século XVI, tendo como objetivo a difusão da fé católica. O padre José de Anchieta foi o primeiro autor de teatro do país, e escreveu autos para a catequização dos índios brasileiros no período da colonização portuguesa.\n"
+"Então implantar o teatro na igreja havia um certo preconceito, de atuarmos a criação de Deus.\n"
+"Antes o teatro era visto como pecado e achavam que quando uma pessoa atuava, ela estaria zombando  do mundo espiritual. Antes as pessoas acreditavam que se alguém interpretasse um demônio logo ela estaria abrindo uma brecha para o inimigo tocar na vida dela. Era visto como uma mentira, pois as pessoa estariam interpretando algo que elas não eram, então elas estariam mentindo e sendo filhos do pai da mentira, o diabo (João 8:44).\n"
+
+"O Teatro na Igreja. \n\n"
+
+"O Teatro é algo bíblico, muitos profetas tiveram que atuar para fazer a vontade Deus, um deles foi Oseias Deus ordenou que ele se casasse com uma prostituta, para mostrar para o povo que Deus estava casado com uma prostituta que era Israel, nessa época Israel estava adorando outros deuses e para o povo entender a gravidade do erro deles, Oséias fez esse teatro e se casou com a prostituta. "Quando, pela primeira vez, o Senhor falou por meio de Oseias, o Senhor lhe disse: — Vá e case com uma prostituta, e tenha com ela filhos de uma prostituta. Porque a terra se prostituiu, desviando-se do Senhor ." Oseias 1:2 \n"
+"José também usou o teatro para testar se os seus irmãos haviam mudado, José foi vendido com escravo pelos seus irmãos, comprado, preso e agora ele era governador do Egito, e agora os seus irmão estavam no Egito para conseguir alimento, José começou a o seu teatro, ele alegou que seus irmãos estavam espionando o Egito para eles poderem roubar, para provar ao contrário eles deveriam trazer o irmão mais novo o Benjamim para o Egito e teria que ficar um dois irmãos até que Benjamin chegasse. Quando Benjamin chegou teve um jantar de recepção, e antes que eles fossem embora o servo ser José que também estava atuando colocou na bolsa de Benjamin uma taça, alegando que ele tinha roubado, quando os 11 irmãos estavam indo embora os soldados de José foi atrás deles para pegar a taça, mas quando a taça foi encontrada nas coisas de Benjamin os soldados foram prender Benjamin o irmão mais velho Rubens quis ser preso no lugar do irmão. Depois disso o teatro acabou e José revelou quem realmente era. "E disse a seus irmãos: — Eu sou José. Meu pai ainda está vivo? E seus irmãos não lhe puderam responder, de tão assustados que ficaram diante dele.  E José disse aos seus irmãos: — Agora cheguem perto de mim. E eles chegaram. Então ele disse: — Eu sou José, o irmão de vocês, que vocês venderam para o Egito." Gênesis 45:3‭-‬4 \n"
+"Essas são alguns exemplos de profetas que usaram do teatro um meio de contar de um forma mais simples a verdade. "conhecerão a verdade, e a verdade os libertará."João 8:32 \n"
+"Paulo diz: "Fiz-me fraco para com os fracos, a fim de ganhar os fracos. "Fiz-me tudo para com todos, a fim de, por todos os modos, salvar alguns." 1 Coríntios 9:22 \n"
+"Existem muitos meios de ganhar almas para o reino de Deus, o teatro é uma dessas formas, é uma arte que mostra/educa de uma forma simples e dinâmica, atrás da atuação conseguimos entender como foi a vida de Jesus aqui na terra, imaginarmos como foi o milagre, como foi a crucificação, o teatro leva ao espectador a se identificar com a cena e querer buscar ajuda.\n"
+"Essa arte é importante nos dias de hoje dentro das igrejas,, pois com tanta tecnologia tudo se tornou muito visual, e quando o telespectador entende a mensagem por trás de toda atuação, ele adora ao senhor.\n"
+"Sirvam uns aos outros, cada um conforme o dom que recebeu, como encarregados de administrar bem a multiforme graça de Deus." 1 Pedro 4:10 Existem muitas formas de adorar a Deus, então adore Ele com a arte e transmita a mensagem de Deus com o teatro.\n"
+
+"Ass:Jessyane Almeida"
+
+    </string>
+    <string name="action_settings">Configurações</string>
+    <string name="title_activity_settings">Configurações</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Básicas</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Sua Assinatura</string>
+    <string name="reply_title">Ação de resposta padrão</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sincronizar e-mail periodicamente</string>
+    <string name="attachment_title">Download de anexos recebidos</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Apenas baixar anexos quando solicitado manualmente</string>
+</resources>
